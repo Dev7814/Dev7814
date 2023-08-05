@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devyansh</h1>
 <h3 align="center">A passionate CS undergrad from India</h3>
-<img align="justify" alt="Coding" width="2000" src=https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif>
+<img align="justify" alt="Coding" width="2000" src=[https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif](https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev7814&label=Profile%20views&color=0e75b6&style=flat" alt="Dev7814" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dev7814" alt="Dev7814" /></a> </p>
