@@ -1,26 +1,26 @@
 <h1 align="center">Hi 👋, I'm Devyansh</h1>
 <h3 align="center">A passionate CS undergrad from India</h3>
 <img align="justify" alt="Coding" width="2000" src=https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vdhawan13&label=Profile%20views&color=0e75b6&style=flat" alt="vdhawan13" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dev7814&label=Profile%20views&color=0e75b6&style=flat" alt="Dev7814" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vdhawan13" alt="vdhawan13" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dev7814" alt="Dev7814" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/vdhawan13" target="blank"><img src="https://img.shields.io/twitter/follow/vdhawan13?logo=twitter&style=for-the-badge" alt="vdhawan13" /></a> </p>
+<p align="left"> <a href="https://twitter.com/devyansh_bansal" target="blank"><img src="https://img.shields.io/twitter/follow/devyansh_bansal?logo=twitter&style=for-the-badge" alt="devyansh_bansal" /></a> </p>
 
 - 🌱 I’m currently learning **Python, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [vdhawan13.github.io](vdhawan13.github.io)
+- 👨‍💻 All of my projects are available at [Dev7814.github.io](Dev7814.github.io)
 
 - 💬 Ask me about **Data Structures and Algorithms, C++**
 
-- 📫 How to reach me **vaibhavdhawan181@gmail.com**
+- 📫 How to reach me **devyanshbansal@gmail.com**
 
 - ⚡ Fun fact **C++ is better than Java lol**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vdhawan13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vdhawan13" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vdhawan13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vdhawan13" height="30" width="40" /></a>
+<a href="https://twitter.com/devyansh_bansal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devyansh_bansal" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/devyansh-bansal-a22036201](https://www.linkedin.com/in/devyansh-bansal-a22036201/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devyansh-bansal-a22036201" height="30" width="40" /></a>
 <a href="https://instagram.com/vdhawan_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vdhawan_13" height="30" width="40" /></a>
 </p>
 
