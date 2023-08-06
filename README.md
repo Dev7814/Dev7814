@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Python, Machine Learning**
 
-- 👨‍💻 All of my projects are available at [Dev7814.github.io](Dev7814.github.io)
-
 - 💬 Ask me about **Data Structures and Algorithms, C++**
 
 - 📫 How to reach me **devyanshbansal@gmail.com**
